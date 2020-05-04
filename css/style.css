@@ -1,0 +1,13 @@
+.tree{
+  border-radius: 2.50rem;
+  padding: 0.5rem;
+}
+.content{
+  text-align: center;
+  color: rgb(143, 7, 48);
+}
+body{
+  background-image: url("../img/mari.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
